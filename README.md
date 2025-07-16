@@ -9,7 +9,7 @@ Mentor name:Neela Santhosh Kumar**
 This redesigned Instagram interface introduces a persistent avatar-based account switcher and swipe gestures on the bottom navigation bar, enabling users to switch accounts quickly and intuitively. The new design reduces the number of taps, improves visibility of available accounts, and creates a smoother, more efficient experience for managing multiple profiles.**
 
 **OUTPUT:**
-<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/d54523a7-1487-4602-88cf-d86d5284a6e3
+https://github.com/user-attachments/assets/d54523a7-1487-4602-88cf-d86d5284a6e3
 
 **Before and After difference:**
 ![Image](https://github.com/user-attachments/assets/9a000fc8-7973-4015-8cf1-4ff91c8a3b8a)
